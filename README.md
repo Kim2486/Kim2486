@@ -11,10 +11,10 @@ Highly motivated and resilient, I thrive on learning new tech stacks and solving
 ---
 
 ### 🌐 Portfolio
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-CLICK--HERE--TO--SEE--MY--PORTFOLIO-black?style=for-the-badge&logo=firefox)](https://your-portfolio-link.com)
+หวัดดีชาวโลก
 
 ### 📄 Resume
-[![Resume](https://img.shields.io/badge/RESUME-CLICK--HERE--TO--SEE--MY--RESUME-black?style=for-the-badge&logo=readthedocs)](https://your-resume-link.com)
+ทำอยู่
 
 ---
 
