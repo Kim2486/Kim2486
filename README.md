@@ -80,7 +80,7 @@
 
 📧 Email: [kimkimhan14@gmail.com](mailto:kimkimhan14@gmail.com)
 📱 Phone: 083-702-6838
-🌐 GitHub: https://github.com/YOUR_USERNAME
+🌐 GitHub: [https://github.com/YOUR_USERNAME](https://github.com/)
 
 ---
 
