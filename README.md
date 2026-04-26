@@ -1,90 +1,100 @@
-# 👋 Hi, I'm Kimhan (คิม)
+# 👋 Hi there, I'm Kimhan (คิม)
 
-🎓 Computer Science Student  
-📍 Thailand  
-💡 Interested in Web Development & IoT  
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,100:00f2fe&height=200&section=header&text=Kimhan%20Yangmung&fontSize=40&fontAlignY=35&animation=fadeIn" />
+
+🎓 Computer Science Student
+🌍 Based in Thailand
+💻 Passionate about Web Development & IoT
 
 ---
 
 ## 🚀 About Me
-ผมเป็นนักศึกษาสาขาวิทยาการคอมพิวเตอร์ มีความสนใจด้านการพัฒนาเว็บไซต์และระบบ IoT  
-มีพื้นฐานการเขียนโปรแกรม การจัดการฐานข้อมูล และสามารถเรียนรู้เทคโนโลยีใหม่ ๆ ได้รวดเร็ว  
-มุ่งมั่นพัฒนาตัวเองเพื่อเข้าสู่สายงาน Developer ในอนาคต  
+
+💡 นักพัฒนาที่กำลังเติบโต สนใจด้าน **Web Development และ IoT**
+📚 มีพื้นฐานการเขียนโปรแกรม + Database และพัฒนาโปรเจคจริง
+🔥 เป้าหมาย: เป็น **Full-stack Developer ในอนาคต**
 
 ---
 
-## 🛠️ Skills
+## 🛠️ Tech Stack
 
-- 💻 Programming: HTML, CSS, JavaScript  
-- 🌐 Web Development  
-- 🗄️ Database: MySQL  
-- ⚙️ Tools: VS Code, XAMPP  
-- 🔌 IoT: Arduino IDE  
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,mysql,arduino,vscode,github" />
+</p>
 
 ---
 
-## 📂 My Projects
+## 📂 Featured Projects
+
+### 🍽️ Food Queue Booking System
+
+* ระบบจองคิวสั่งอาหาร
+* ลดความแออัดในร้าน
+* ใช้งานจริงแนว Startup
+  🏆 Startup Thailand League 2025
+
+---
 
 ### 📚 Digital Library System
-ระบบจัดการห้องสมุดดิจิทัล  
-- จัดการข้อมูลหนังสือและผู้ใช้งาน  
-- ระบบยืม–คืนอัตโนมัติ  
-- เพิ่มความรวดเร็วและความถูกต้อง  
 
----
-
-### 🍽️ Food Queue Booking Website
-เว็บแอปจองคิวซื้ออาหาร  
-- ลดความแออัดและความสับสน  
-- จัดการคิวและออเดอร์  
-- ใช้จริงในแนวคิด Startup  
-🏆 เข้าร่วมแข่งขัน **Startup Thailand League 2025**
-
----
-
-### ⚽ Football Game (Mini Game)
-เกมฟุตบอลมุมมองด้านบน  
-- ควบคุมง่าย  
-- มีระบบจับเวลา + นับสกอร์  
-- ฝึกพื้นฐานการพัฒนาเกม  
-
----
-
-### 📖 Learning Platform Website
-เว็บไซต์รวมเนื้อหาการเรียน  
-- บทเรียน + สรุป + แบบฝึกหัด  
-- รองรับมือถือและคอมพิวเตอร์  
+* ระบบยืม–คืนหนังสือ
+* จัดการข้อมูลผู้ใช้งาน
+* เพิ่มความรวดเร็วในการบริการ
 
 ---
 
 ### 🩺 IoT Health Checker
-เครื่องตรวจสุขภาพอัจฉริยะ  
-- วัด: น้ำหนัก / ส่วนสูง / ชีพจร / อุณหภูมิ  
-- ใช้เซนเซอร์หลายตัว  
-- แสดงผลบน LCD แบบ Real-time  
+
+* วัด น้ำหนัก / ส่วนสูง / ชีพจร / อุณหภูมิ
+* แสดงผลแบบ Real-time บน LCD
+* ใช้ Arduino + Sensors
 
 ---
 
-## 📊 Education
-- 🎓 มหาวิทยาลัยหัวเฉียวเฉลิมพระเกียรติ (2023 - ปัจจุบัน)  
-- 🏫 โรงเรียนราชวินิตสุวรรณภูมิ (2017 - 2022)  
+### ⚽ Mini Football Game
+
+* เกม 2D มุมมองด้านบน
+* มีระบบเวลา + นับคะแนน
+* ฝึกพัฒนา Game Logic
 
 ---
 
-## 📬 Contact Me
+### 📖 Learning Platform
 
-- 📧 Email: kimkimhan14@gmail.com  
-- 📱 Phone: 083-702-6838  
-- 🌐 GitHub: https://github.com/  
-
----
-
-## 💪 Personal Traits
-- มีความรับผิดชอบ  
-- ขยัน อดทน  
-- ทำงานเป็นทีมได้ดี  
-- พร้อมเรียนรู้สิ่งใหม่ ๆ  
+* เว็บรวมบทเรียน + แนวข้อสอบ
+* รองรับมือถือและคอม
 
 ---
 
-⭐ *"Always improving my skills to become a professional developer."*
+## 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+<br/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+</p>
+
+---
+
+## 📬 Contact
+
+📧 Email: [kimkimhan14@gmail.com](mailto:kimkimhan14@gmail.com)
+📱 Phone: 083-702-6838
+🌐 GitHub: https://github.com/YOUR_USERNAME
+
+---
+
+## 💪 Personal Strengths
+
+✔ ทำงานเป็นทีมได้ดี
+✔ รับผิดชอบสูง
+✔ เรียนรู้ไว
+✔ พร้อมพัฒนาตลอดเวลา
+
+---
+
+## 🧠 Motto
+
+> "Keep learning. Keep building. Keep improving." 🚀
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f2fe,100:4facfe&height=120&section=footer"/>
