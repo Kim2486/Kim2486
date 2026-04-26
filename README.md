@@ -1,57 +1,90 @@
-# Kim2468-Profile
-# 👋 Hi, I'm Kimhan Yangmung
+# 👋 Hi, I'm Kimhan (คิม)
 
-## 🧑‍💻 About Me
-I'm a 3rd-year Computer Science student at **Huachiew Chalermprakiet University**.  
-I am actively seeking a **Co-op internship** in **Full-Stack, Software, or Game Development**.
-
-I enjoy building practical applications—whether integrating frontend & backend systems, crafting software solutions, or exploring game mechanics.  
-Highly motivated and resilient, I thrive on learning new tech stacks and solving real-world problems.
+🎓 Computer Science Student  
+📍 Thailand  
+💡 Interested in Web Development & IoT  
 
 ---
 
-### 🌐 Portfolio
-หวัดดีชาวโลก
-
-### 📄 Resume
-ทำอยู่
-
----
-
-## 🧰 Technical Skills
-
-### 💻 Programming Languages
-![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=yellow)
-![C#](https://img.shields.io/badge/C%23-green?style=for-the-badge&logo=csharp&logoColor=white)
-![C](https://img.shields.io/badge/C-blue?style=for-the-badge&logo=c&logoColor=white)
+## 🚀 About Me
+ผมเป็นนักศึกษาสาขาวิทยาการคอมพิวเตอร์ มีความสนใจด้านการพัฒนาเว็บไซต์และระบบ IoT  
+มีพื้นฐานการเขียนโปรแกรม การจัดการฐานข้อมูล และสามารถเรียนรู้เทคโนโลยีใหม่ ๆ ได้รวดเร็ว  
+มุ่งมั่นพัฒนาตัวเองเพื่อเข้าสู่สายงาน Developer ในอนาคต  
 
 ---
 
-### 🎨 Frontend Development
-![HTML5](https://img.shields.io/badge/HTML5-red?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-teal?style=for-the-badge&logo=tailwindcss)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-purple?style=for-the-badge&logo=bootstrap)
+## 🛠️ Skills
+
+- 💻 Programming: HTML, CSS, JavaScript  
+- 🌐 Web Development  
+- 🗄️ Database: MySQL  
+- ⚙️ Tools: VS Code, XAMPP  
+- 🔌 IoT: Arduino IDE  
 
 ---
 
-### ⚙️ Backend Development
-![Node.js](https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js)
-![PHP](https://img.shields.io/badge/PHP-gray?style=for-the-badge&logo=php)
+## 📂 My Projects
+
+### 📚 Digital Library System
+ระบบจัดการห้องสมุดดิจิทัล  
+- จัดการข้อมูลหนังสือและผู้ใช้งาน  
+- ระบบยืม–คืนอัตโนมัติ  
+- เพิ่มความรวดเร็วและความถูกต้อง  
 
 ---
 
-### 🛢️ Database
-![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-darkblue?style=for-the-badge&logo=postgresql)
-![MongoDB](https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=mongodb)
+### 🍽️ Food Queue Booking Website
+เว็บแอปจองคิวซื้ออาหาร  
+- ลดความแออัดและความสับสน  
+- จัดการคิวและออเดอร์  
+- ใช้จริงในแนวคิด Startup  
+🏆 เข้าร่วมแข่งขัน **Startup Thailand League 2025**
 
 ---
 
-## 📫 Contact
-- 📍 Samut Prakan, Thailand
-- 🎓 Huachiew Chalermprakiet University
-- 📧 your.email@example.com
+### ⚽ Football Game (Mini Game)
+เกมฟุตบอลมุมมองด้านบน  
+- ควบคุมง่าย  
+- มีระบบจับเวลา + นับสกอร์  
+- ฝึกพื้นฐานการพัฒนาเกม  
+
+---
+
+### 📖 Learning Platform Website
+เว็บไซต์รวมเนื้อหาการเรียน  
+- บทเรียน + สรุป + แบบฝึกหัด  
+- รองรับมือถือและคอมพิวเตอร์  
+
+---
+
+### 🩺 IoT Health Checker
+เครื่องตรวจสุขภาพอัจฉริยะ  
+- วัด: น้ำหนัก / ส่วนสูง / ชีพจร / อุณหภูมิ  
+- ใช้เซนเซอร์หลายตัว  
+- แสดงผลบน LCD แบบ Real-time  
+
+---
+
+## 📊 Education
+- 🎓 มหาวิทยาลัยหัวเฉียวเฉลิมพระเกียรติ (2023 - ปัจจุบัน)  
+- 🏫 โรงเรียนราชวินิตสุวรรณภูมิ (2017 - 2022)  
+
+---
+
+## 📬 Contact Me
+
+- 📧 Email: kimkimhan14@gmail.com  
+- 📱 Phone: 083-702-6838  
+- 🌐 GitHub: https://github.com/  
+
+---
+
+## 💪 Personal Traits
+- มีความรับผิดชอบ  
+- ขยัน อดทน  
+- ทำงานเป็นทีมได้ดี  
+- พร้อมเรียนรู้สิ่งใหม่ ๆ  
+
+---
+
+⭐ *"Always improving my skills to become a professional developer."*
